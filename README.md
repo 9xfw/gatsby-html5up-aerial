@@ -1,7 +1,8 @@
 # [GatsbyJS Aerial](https://appseed.us/apps/gatsbyjs/gatsby-html5up-aerial)
 
 Open-source app built with GatsbyJS on top of HTML5Up Aerial design.
-**Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-aerial) project.**
+
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
 
 <br />
 
